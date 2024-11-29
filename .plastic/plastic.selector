@@ -1,4 +1,0 @@
-repository "Home Of My Own@r3clus1v3@cloud"
-  path "/"
-    br "/main"
-    co "/main"
